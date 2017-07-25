@@ -31,5 +31,3 @@ class Tool:
         #strip()将前后多余内容删除
         return x.strip()
 
-
-11111111111
