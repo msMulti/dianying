@@ -1,0 +1,5 @@
+1£∫windows10  π”√python3
+
+2£∫pip3 install mysql-connector==2.1.4 
+
+3£∫pip3 install beautifulsoup4
